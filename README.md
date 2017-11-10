@@ -5,8 +5,8 @@
 ####HTML
 ```html
 <script src="path/to/FollowCursor.js"></script>
+<!-- Adding data-relative="id of a element" attribute to the element make that element rotate relative to the cursore in the data-relative area   -->
 ```
-<sub>The minified version uses [Babel](https://github.com/babel/babel) to compile and [Uglyify](https://github.com/mishoo/UglifyJS2) to minify</sub>
 
 ####JS
 ```js
